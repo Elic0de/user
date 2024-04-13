@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       Ei
 // @match        https://www.ap-siken.com/apkakomon.php
+// @match        https://www.fe-siken.com/fekakomon.php
 // @icon         https://www.ap-siken.com/favicon.ico
 // @downloadURL  https://raw.githubusercontent.com/Elic0de/user/main/shiken.js
 // @updateURL    https://raw.githubusercontent.com/Elic0de/user/main/shiken.js
