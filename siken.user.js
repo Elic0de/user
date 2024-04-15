@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Kakomondojo
 // @namespace    http://tampermonkey.net/
-// @version      2024-04-15
+// @version      2024-04-16
 // @description  try to take over the world!
-// @author       Ei
+// @author       Eis
 // @match        https://www.ap-siken.com/apkakomon.php
 // @match        https://www.fe-siken.com/fekakomon.php
 // @icon         https://www.ap-siken.com/favicon.ico
