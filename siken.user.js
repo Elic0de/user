@@ -8,6 +8,7 @@
 // @match        https://www.fe-siken.com/fekakomon.php
 // @icon         https://www.ap-siken.com/favicon.ico
 // @updateURL    https://raw.githubusercontent.com/Elic0de/user/main/shiken.user.js
+// @downloadURL  https://raw.githubusercontent.com/Elic0de/user/main/shiken.user.js
 // @grant        none
 // ==/UserScript==
 
